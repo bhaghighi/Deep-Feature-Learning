@@ -1,8 +1,0 @@
-#babak 
-<<<<<<< HEAD
-# added
-
-#asghar
->>>>>>> 0f10e33766e3faca4bed85b9e6bc0a0a2153f90b
-#jahani
-
