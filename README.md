@@ -1,1 +1,1 @@
-# Collections of Deep Learning Codes for Segmentation, Classification and Learning!
+# Collections of Deep Learning Codes for Deep Feature Learning from Medical Images
