@@ -1,2 +1,2 @@
 #
-Collections of Deep Learning Codes for Deep Feature Learning from Medical Images
+Collections of Deep Learning resources, papers and Codes for Deep Feature Learning from Medical Images
